@@ -1,0 +1,23 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "W2D5_Filmzoeker",
+  "main": "main.test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "M. den Toom",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DenToom/W2D5_Filmzoeker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DenToom/W2D5_Filmzoeker/issues"
+  },
+  "homepage": "https://github.com/DenToom/W2D5_Filmzoeker#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
